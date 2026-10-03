@@ -1,0 +1,1 @@
+export default function App(){return <main className="grid min-h-screen place-items-center bg-zinc-950 text-white"><div className="text-center"><p className="text-sm font-semibold uppercase tracking-[.2em] text-indigo-400">GHRCE Coding Club</p><h1 className="mt-4 text-5xl font-bold">Project initialized.</h1></div></main>}
