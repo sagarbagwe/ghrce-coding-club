@@ -1,0 +1,1 @@
+export default function SectionHeading({eyebrow,title,children,center=false}){return <div className={center?'mx-auto max-w-2xl text-center':''}><div className="eyebrow">{eyebrow}</div><h2 className="section-title">{title}</h2>{children&&<p className={`section-copy ${center?'mx-auto':''}`}>{children}</p>}</div>}
